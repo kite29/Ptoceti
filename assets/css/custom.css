@@ -1,0 +1,17 @@
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6  {
+    font-family: 'Molengo', Georgia, Times, serif;
+}
+ 
+p {
+    font-family: 'Lekton', Helvetica, Arial, sans-serif;
+}
+
+.intro h1 {
+    font-size: 90px;
+    color: #FFFFFF;
+}
+
+.intro p {
+    color: #FFFFFF;
+}
