@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ptoceti</groupId>
 	<artifactId>com.ptoceti.parent</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>com.ptoceti.obix</name>
 	<description>Parent project</description>
@@ -45,7 +45,7 @@
 		<developerConnection>scm:git:ssh://git@github.com/lathil/Ptoceti.git</developerConnection>
 		<connection>scm:git:ssh://git@github.com/lathil/Ptoceti.git</connection>
 		<url>https://github.com/lathil/Ptoceti.git</url>
-	  <tag>com.ptoceti.parent-1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 	
 	<issueManagement>
